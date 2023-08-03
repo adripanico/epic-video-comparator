@@ -1,4 +1,4 @@
-# Epic Video Comparator · [![npm version](https://img.shields.io/npm/v/@epiclabs/epic-video-comparator.svg?style=flat)](https://www.npmjs.com/package/@epiclabs/epic-video-comparator) [![Travis CI Status](https://api.travis-ci.org/epiclabs-io/epic-video-comparator.svg?branch=master)](https://travis-ci.org/epiclabs-io/epic-video-comparator)
+# Epic Video Comparator · [![npm version](https://img.shields.io/npm/v/@epiclabs/epic-video-comparator.svg?style=flat)](https://www.npmjs.com/package/@epiclabs/epic-video-comparator)
 
 [LIVE DEMO](https://epiclabs-io.github.io/epic-video-comparator-demo/)
 
